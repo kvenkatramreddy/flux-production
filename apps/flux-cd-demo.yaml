@@ -17,4 +17,5 @@ spec:
   values:
     image:
       tag: 0.0.4
+    replicaCount: 2
 
